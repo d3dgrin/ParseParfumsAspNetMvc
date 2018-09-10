@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParseParfumsAspNetMvc", "ParseParfumsAspNetMvc\ParseParfumsAspNetMvc.csproj", "{0723C39B-BC49-46A2-84C5-92833B24D1A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParseParfumsAspNetMvc.Tests", "ParseParfumsAspNetMvc.Tests\ParseParfumsAspNetMvc.Tests.csproj", "{FBE2CCCB-B219-4397-B4AE-08C4440A6724}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0723C39B-BC49-46A2-84C5-92833B24D1A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0723C39B-BC49-46A2-84C5-92833B24D1A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0723C39B-BC49-46A2-84C5-92833B24D1A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0723C39B-BC49-46A2-84C5-92833B24D1A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBE2CCCB-B219-4397-B4AE-08C4440A6724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE2CCCB-B219-4397-B4AE-08C4440A6724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE2CCCB-B219-4397-B4AE-08C4440A6724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE2CCCB-B219-4397-B4AE-08C4440A6724}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94F10734-A9B3-4183-8D9B-5AE21C205C4D}
+	EndGlobalSection
+EndGlobal
